@@ -9,7 +9,7 @@ ready: true
 
 <ul>
 <tr>下一篇:&nbsp;</tr>
-<a href="/activity/exchange">
+<a href="{{ site.baseurl }}/activity/exchange">
 語言交換
 </a>
 </ul>

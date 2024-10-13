@@ -9,7 +9,7 @@ ready: true
 
 <ul>
 <tr>下一篇:&nbsp;</tr>
-<a href="/activity/eat-together">
+<a href="{{ site.baseurl }}/activity/eat-together">
 一起食/桌遊 
 </a>
 </ul>

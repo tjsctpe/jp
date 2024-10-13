@@ -6,6 +6,8 @@ title: 台湾日本学生交流会🇹🇼🇯🇵 (ウェブ開発中)
 
 permalink: /:slug
 
+baseurl: "/jp"
+
 favicon: "./logo.png" # relative path to site's favicon
 
 collections:

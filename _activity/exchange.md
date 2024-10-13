@@ -9,7 +9,7 @@ ready: true
 
 <ul>
 <tr>下一篇:&nbsp;</tr>
-<a href="/activity/discussion">
+<a href="{{ site.baseurl }}/activity/discussion">
 分科會
 </a>
 </ul>

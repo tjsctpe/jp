@@ -9,7 +9,7 @@ ready: true
 
 <ul>
 <tr>下一篇:&nbsp;</tr>
-<a href="/activity/address">
+<a href="{{ site.baseurl }}/activity/address">
 演講會
 </a>
 </ul>

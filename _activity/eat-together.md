@@ -9,7 +9,7 @@ ready: true
 
 <ul>
 <tr>下一篇:&nbsp;</tr>
-<a href="/activity/party">
+<a href="{{ site.baseurl }}/activity/party">
 忘年會/期末派對
 </a>
 </ul>
