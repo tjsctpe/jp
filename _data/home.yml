@@ -14,23 +14,23 @@ project_entries:
     desc: 舉辦多樣化的活動讓大家分組活動
 
   - title: 語言交換
-    url: /jp/activity/welcome
+    url: /jp/activity/exchange
     desc: 練習中文/日文口說的好時機
 
   - title: 分科會
-    url: /jp/activity/welcome
+    url: /jp/activity/discussion
     desc: 討論台日文化的差異性，並進行投影片分享
 
   - title: 演講會
-    url: /jp/activity/welcome
+    url: /jp/activity/address
     desc: 邀請台灣或日本文化有關的講者跟社員經驗分享
 
   - title: 一起食/桌遊
-    url: /jp/activity/welcome
+    url: /jp/activity/eat-together
     desc: 一起吃飯或一起玩桌遊，讓彼此輕鬆的交流
 
   - title: 忘年會/期末派對
-    url: /jp/activity/welcome
+    url: /jp/activity/party
     desc: 學期末舉辦的大派對，一起用食物飲料遊戲慶祝學期的結束
 
 
