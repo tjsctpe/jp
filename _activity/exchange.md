@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "語言交換"
+url-zh: "https://tjsctpe.github.io/activity/exchange"
 ready: true
 ---
 

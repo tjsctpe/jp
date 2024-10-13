@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "演講會"
+url-zh: "https://tjsctpe.github.io/activity/address"
 ready: true
 ---
 

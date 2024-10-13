@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "迎新/社課"
+url-zh: "https://tjsctpe.github.io/activity/welcome"
 ready: true
 ---
 

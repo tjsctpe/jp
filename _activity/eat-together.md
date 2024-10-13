@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "一起食／桌遊"
+url-zh: "https://tjsctpe.github.io/activity/eat-together"
 ready: true
 ---
 

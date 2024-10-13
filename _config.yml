@@ -1,4 +1,4 @@
-title: 台灣日本學生交流會🇹🇼🇯🇵 (網頁開發中)
+title: 台湾日本学生交流会🇹🇼🇯🇵 (ウェブ開発中)
 # author: Abhinav Saxena
 # url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 # description: > # description of the site (multiple lines allowed)
@@ -21,7 +21,7 @@ theme_config:
   appearance_toggle: true # if appearance can be switched by user
   back_home_text: "首頁" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: true # show blog description
+  show_description: false # show blog description
   show_navbar: true # show horizontal navbar
   show_footer: true # show footer links in home page,add in _data/home.yml
   show_copyright: true # show copyright notice in footer
